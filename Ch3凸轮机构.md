@@ -46,9 +46,12 @@
 
 ## 凸轮名词术语及符号
 
-![img](https://wx3.sinaimg.cn/mw690/005LasY6gy1gd1db3leroj30s10hggq1.jpg)
+![](https://wx3.sinaimg.cn/mw690/005LasY6gy1gd1db3leroj30s10hggq1.jpg)
 
-远休和近休的时候从动件S不变--因为凸轮轮廓那是段圆弧！！
++ ***<u>基圆半径就是凸轮廓线上与旋转中心距离最小的那段距离</u>***！！！
++ ***<u>所以起始点就是S = 0那点即最低点</u>***！！
+
++ 远休和近休的时候从动件S不变--因为凸轮轮廓那是段圆弧！！
 
 ![img](https://wx4.sinaimg.cn/mw690/005LasY6gy1gd1dj2m8mej30s10i4q60.jpg)
 
@@ -79,4 +82,69 @@
 ![img](https://wx4.sinaimg.cn/mw690/005LasY6gy1gd1eh2chlej30rw0j5jve.jpg)
 
 ![img](https://wx4.sinaimg.cn/mw690/005LasY6gy1gd1ehz7ohdj30sf0i8adv.jpg)
+
+
+
+## 凸轮机构的压力角
+
+![img](https://wx4.sinaimg.cn/mw690/005LasY6gy1gd1elt8hvtj30ru0hstbq.jpg)
+
+***<u>压力角是接触点公法线方向(受力方向)与速度方向所夹锐角</u>***！！
+
+回程的时候承受压力较小，所以许用压力角可以大一些！！
+
+
+
+### 压力角α与基圆半径r
+
+![img](https://wx4.sinaimg.cn/mw690/005LasY6gy1gd1epj2kftj30s30hlado.jpg)
+
+![img](https://wx2.sinaimg.cn/mw690/005LasY6gy1gd1es68ebuj30s80lcgqx.jpg)
+
+PS：凸轮逆时针转动，从动杆适当右偏置，这样减小了推程压力角，但也同时增大了回程压力角。
+
+这样可以有利于传动
+
+顺时针则相反！
+
+
+
+
+
+# 图解法设计凸轮轮廓
+
+## 原理
+
+设计图轮廓线是采用反转法原理，即当尖底从动件凸轮机构以等角速度Ω顺时针转动时，从动件按预期运动规律运动。
+
+```c
+//这是教材上的一段话，我没看懂
+/*
+现设想给该凸轮机构加一个等角速度Ω逆时针转动时，显然凸轮机构中运动关系没变，但是根据运动合成，凸轮将静止不动，这时，尖底运动的轨迹就是凸轮轮廓曲线。
+*/
+```
+
+下面是ppt上的一段话
+
+***<u>可假设凸轮静止不动，而使推杆相对于凸轮作反转运动；同时又在其导轨内作预期运动，作出推杆在这种复合运动中的一系列位置，则其尖顶的轨迹就是所要求的的凸轮廓线。</u>***
+
+
+
+## 具体做法
+
+![img](https://wx3.sinaimg.cn/mw690/005LasY6gy1gd3phmh3exj30r40i611l.jpg)
+
+![img](https://wx2.sinaimg.cn/mw690/005LasY6gy1gd3podxwxuj30so0l07f9.jpg)
+
+
+
+
+
+
+
+# 此章习题(会考大题)
+
+## 套路
+
+1. 先找起始点(向径最小的点)，画出基圆
 
