@@ -220,3 +220,11 @@
 
 ![img](https://wx1.sinaimg.cn/mw690/005LasY6gy1gd1beq032kj313a04pwfv.jpg)
 
+
+
+
+
+# 齿轮各部分名称及渐开线标准齿轮基本尺寸(大题)
+
+
+
