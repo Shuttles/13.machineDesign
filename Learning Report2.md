@@ -40,10 +40,6 @@ e.g.
 
 
 
-
-
-
-
 ## 4.Tips for organizing notes
 
 1. Always start on a ***<u>fresh</u>*** page.
