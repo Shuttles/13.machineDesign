@@ -87,10 +87,6 @@ e.g.
 4. ==Guess== First from the Context.
 5. Understand the ==Big Ideas==.
 
-
-
-
-
 # 2.8Organization of English News
 
 ## Broadcast news structure
@@ -131,15 +127,11 @@ Generally, the structure is ordered as follows.
 1. ***<u>emotional</u>*** appeal
 2. ***<u>logical</u>*** appeal
 
-
-
 ## 3.Special Occasion
 
 ==It is just for fun==
 
 1. It is usually brief.
-
-
 
 # 2.10American TV
 
@@ -147,8 +139,6 @@ Generally, the structure is ordered as follows.
 
 1. *Man from Atlantis.*
 2. *Garrison's Gorillas*
-
-
 
 ## 2.American Broadcast Television Network
 
